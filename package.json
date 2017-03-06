@@ -1,0 +1,16 @@
+{
+    "name": "startbootstrap-1-col-portfolio",
+    "title": "1 Col Portfolio",
+    "description": "1 Col Portfolio is a one column portfolio template for Bootstrap created by Start Bootstrap.",
+    "version": "4.0.0-alpha",
+    "homepage": "http://startbootstrap.com/template-overviews/1-col-portfolio",
+    "author": "Start Bootstrap",
+    "license": {
+        "type": "MIT",
+        "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio.git"
+    }
+}
