@@ -17,7 +17,7 @@ After downloading the template, simply edit the `index.html` and `css/1-col-port
 
 ### Advanced (Development Environment with npm and Gulp)
 
-This template has a Gulp development environment built-in. In order to use it, simply run `npm install` first, and then you will be able to use the `gulp dev`. This task runs browserSync and is set up to live reload the browser window when changes are made to the HTML or CSS. Feel free to build on this gulpfile for more advanced development needs.
+This template has a Gulp development environment built-in. In order to use it, simply run `npm install` first, and then you will be able to use the `gulp dev` task. This task runs browserSync and is set up to live reload the browser window when changes are made to the HTML or CSS. Feel free to build on this gulpfile for more advanced development needs.
 
 ## Bugs and Issues
 
