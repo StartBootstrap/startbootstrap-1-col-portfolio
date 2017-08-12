@@ -9,6 +9,16 @@ To begin using this template, choose one of the following options to get started
 * Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio.git`
 * Fork the repo
 
+## Usage
+
+### Beginners
+
+After downloading the template, simply edit the `index.html` and `css/1-col-portfolio.css` file to make changes. You can ignore, and even delete, the following files used to create a development environment for more advanced developers: `.gitignore`, `gulpfile.js`, `package.json`
+
+### Advanced (Development Environment with npm and Gulp)
+
+This template has a Gulp development environment built-in. In order to use it, simply run `npm install` first, and then you will be able to use the `gulp dev` task. This task runs browserSync and is set up to live reload the browser window when changes are made to the HTML or CSS. Feel free to build on this gulpfile for more advanced development needs.
+
 ## Bugs and Issues
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/1-col-portfolio/).
@@ -24,4 +34,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 ## Copyright and License
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio/blob/gh-pages/LICENSE) license.
+Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio/blob/gh-pages/LICENSE) license.
