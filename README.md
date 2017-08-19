@@ -3,6 +3,9 @@
 [1 Col Portfolio](https://startbootstrap.com/template-overviews/1-col-portfolio/) is a single column portfolio layout template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
 [![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-1-col-portfolio.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-1-col-portfolio)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-1-col-portfolio/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-1-col-portfolio)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-1-col-portfolio/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-1-col-portfolio?type=dev)
+[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/startbootstrap-1-col-portfolio)
 
 ## Preview
 [![1 Col Portfolio Preview](https://startbootstrap.com/assets/img/templates/1-col-portfolio.jpg)](https://blackrockdigital.github.io/startbootstrap-1-col-portfolio/)
