@@ -7,7 +7,7 @@
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-1-col-portfolio/)**
 
-##Status
+## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-1-col-portfolio/master/LICENSE)
 [![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-1-col-portfolio.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-1-col-portfolio)
