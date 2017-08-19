@@ -1,7 +1,10 @@
 sudo:          false
 language:      node_js
-install:
-  - npm install
+install:       npm install
+script:
+  - npm test
+  - gulp
+  - gulp dev
 cache:
   directories:
     - node_modules
