@@ -3,16 +3,16 @@
 [1 Col Portfolio](https://startbootstrap.com/template-overviews/1-col-portfolio/) is a single column portfolio layout template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
 ## Preview
-[![1 Col Portfolio Preview](https://startbootstrap.com/assets/img/templates/1-col-portfolio.jpg)](https://startbootstrap.com/template-overviews/1-col-portfolio/)
+[![1 Col Portfolio Preview](https://startbootstrap.com/assets/img/templates/1-col-portfolio.jpg)](https://blackrockdigital.github.io/startbootstrap-1-col-portfolio/)
 
-[View Demo](https://startbootstrap.com/template-overviews/1-col-portfolio/)
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-1-col-portfolio/)**
 
 ## Download & Installation
 
 To begin using this template, choose one of the following options to get started:
 * [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/1-col-portfolio/)
-* `npm i startbootstrap-1-col-portfolio`
-* `git clone https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio.git`
+* Install via npm: `npm i startbootstrap-1-col-portfolio`
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio.git`
 * [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio)
 
 ## Usage
@@ -23,7 +23,7 @@ After downloading the template, simply edit the `index.html` and `css/1-col-port
 
 ### Advanced (Dev Environment with npm and Gulp)
 
-After installation, run `npm install` to pull in dev dependencies and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved.
+After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
 ## Bugs and Issues
 
