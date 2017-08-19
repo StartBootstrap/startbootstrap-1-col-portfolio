@@ -1,0 +1,11 @@
+sudo:           false
+language:       node_js
+before_install:
+  - if [[ `npm -v` != 5* ]]; then npm install -g npm@5; fi
+  - "export TRAVIS_COMMIT_MSG=\"`git log --format=%B --no-merges -n 1`\""
+  - echo "$TRAVIS_COMMIT_MSG" | grep '\[skip browser\]'; export TWBS_DO_BROWSER=$?; true
+install:
+  - npm install
+cache:
+  directories:
+    - node_modules
