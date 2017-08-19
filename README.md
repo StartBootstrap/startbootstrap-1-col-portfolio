@@ -3,10 +3,11 @@
 [1 Col Portfolio](https://startbootstrap.com/template-overviews/1-col-portfolio/) is a single column portfolio layout template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
 ## Preview
-![alt-text](https://startbootstrap.com/assets/img/templates/1-col-portfolio.jpg "Logo Title Text 1")
+[![1 Col Portfolio Preview](https://startbootstrap.com/assets/img/templates/1-col-portfolio.jpg)](https://startbootstrap.com/template-overviews/1-col-portfolio/)
+
 [View Demo](https://startbootstrap.com/template-overviews/1-col-portfolio/)
 
-## Download/Installation
+## Download & Installation
 
 To begin using this template, choose one of the following options to get started:
 * [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/1-col-portfolio/)
