@@ -3,6 +3,7 @@
 [1 Col Portfolio](https://startbootstrap.com/template-overviews/1-col-portfolio/) is a single column portfolio layout template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
 ## Preview
+
 [![1 Col Portfolio Preview](https://startbootstrap.com/assets/img/templates/1-col-portfolio.jpg)](https://blackrockdigital.github.io/startbootstrap-1-col-portfolio/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-1-col-portfolio/)**
