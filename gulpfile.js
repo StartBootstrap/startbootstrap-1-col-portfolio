@@ -15,7 +15,6 @@ gulp.task('copy', function() {
 
   gulp.src(['node_modules/jquery/dist/jquery.js', 'node_modules/jquery/dist/jquery.min.js'])
     .pipe(gulp.dest('vendor/jquery'))
-
 })
 
 // Default task
